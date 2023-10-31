@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+![image](https://github.com/abaduna/react-cat-dog/assets/64230830/67da6ee3-88d9-4b14-927e-82f4c63aa879)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
